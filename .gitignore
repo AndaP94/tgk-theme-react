@@ -84,3 +84,8 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/intellij
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
